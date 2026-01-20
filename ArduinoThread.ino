@@ -1,9 +1,9 @@
 /*
   Developer: Carlos Roberto Giancristóforo
   Date: 05/2017
-  Description: Threads are used to start or stop functions in same time.
-               In this example, Arduino will blink the red led every 60s and blue led every 6s.
-  Highlights: Do not forget to set correct COM/TTY and correct board
+  Description: Threads are used to start or stop functions at the same time.
+               In this sample, Arduino will blink the red led every 60s and the blue led every 6s.
+  Highlights: Do not forget to set COM/TTY and board accordingly.
   Version: 1.0
 */
 #include <Thread.h>
